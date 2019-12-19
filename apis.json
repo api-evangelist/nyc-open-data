@@ -1,0 +1,86 @@
+{
+    "name": "NYC Open Data",
+    "description": "Join more than 1,000 government organizations using Socrata to put their data online, share insights, and make data-driven decisions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/231-nyc-it-&-telecomm.jpg",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nyc-open-data\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NYC Open Data",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/231-nyc-it-&-telecomm.jpg",
+            "humanURL": "http:\/\/nycopendata.socrata.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nyc-open-data-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/nycopendata.socrata.com\/resource\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/socrata"
+        },
+        {
+            "type": "Email",
+            "url": "info@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "latam@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "emea@socrata.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@Socrata.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/CityOfNewYork"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/socrata"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NYCDoITT"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nycopendata.socrata.com\/"
+        }
+    ]
+}
